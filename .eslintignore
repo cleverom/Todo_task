@@ -1,0 +1,7 @@
+node_modules
+
+.next/
+
+.eslint.js
+
+next.config.js
